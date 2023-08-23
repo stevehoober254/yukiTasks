@@ -26,14 +26,14 @@ Yuki Tasks offers seamless integrations with popular project management tools:
 1.Clone the repository:
 
 ````bash
-    git clone https://github.com/your-username/yukiTasks.git
+    git clone https://github.com/stevehoober254/yukiTasks.git
     cd yukiTasks
 ````
 
 2.Install dependencies:
 
 ````bash
-npm install
+    npm install
 ````
 
 3.Start the application:
